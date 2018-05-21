@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/1628471142/XFScrollBtnView"
   s.license      = "MIT"
   s.author       = { "Mnid" => "953894805@qq.com" }
-  s.source       = { :git => "https://github.com/1628471142/XFScrollBtnView.git", :tag => "s.version" }
+  s.source       = { :git => "https://github.com/1628471142/XFScrollBtnView.git", :tag => s.version }
   s.source_files  = "XFScrollBtnViewDemo/XFScrollBtnView/**/*.{h,m}"
   s.platform      = :ios
   s.framework  = "UIKit"
