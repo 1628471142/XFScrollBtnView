@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "XFScrollBtnView"
-  s.version      = "1.0.0"
+  s.version      = '1.0.0'
   s.summary      = "Quickly create Jingdong category selection button style"
   s.description  = "It helps you quickly create a Jingdong category selection style and is highly customizable."
   s.homepage     = "https://github.com/1628471142/XFScrollBtnView"
